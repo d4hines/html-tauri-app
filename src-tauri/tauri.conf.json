@@ -16,13 +16,7 @@
         "open": true
       }
     },
-    "windows": [
-      {
-        "title": "html-tauri-app",
-        "width": 800,
-        "height": 600
-      }
-    ],
+    "windows": [],
     "security": {
       "csp": null
     },
